@@ -1,2 +1,2 @@
-# Portfolio-Website-1-
-Portfolio Website of Mohit This is my attempt to make a personal portfolio prototype for myself so i can do handson my web dev skills.
+# SimpleHTML-Website
+ This is a sample webiste for anyone to get started with HTML5 Project and related handson I hope you can learn and have fun while doing this with your chai/coffee!
